@@ -1,18 +1,13 @@
-# Welcome to your Lovable project
+# Welcome to My Lovable project
+This Website Made with Lovable AI only For Demo purpose
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/665bdea5-c952-41d2-b156-57489665104d
+**URL**: https://sakthirithan.netlify.app
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/665bdea5-c952-41d2-b156-57489665104d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -24,10 +19,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/sakthirithan/taskrog.git>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <taskrog>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -62,12 +57,6 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/665bdea5-c952-41d2-b156-57489665104d) and click on Share -> Publish.
+- Netlify
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
